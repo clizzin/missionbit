@@ -16,7 +16,7 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 - Playlist tutorial - very detailed: https://www.youtube.com/playlist?list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId 
 - Documentation: https://git-scm.com/book/es/v1/Empezando 
 - Tutorial: http://blog.santiagobasulto.com.ar/programacion/2011/11/27/tutorial-de-git-en-espanol.html 
-- e-mail juliana@missionbit.com
+- e-mail juliana (@ missionbit.com)
 
 ### Other Resources
 - [Scratch](https://scratch.mit.edu/) - This is a block-based programming language. It is not HTML/CSS/JS, but it introduces a lot of coding concepts with blocks, so that you don't have to worry as much about typing every letter and symbol right. Instead of typing commands, you drag blocks together.
