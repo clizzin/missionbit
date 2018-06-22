@@ -5,6 +5,7 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 ### HTML/CSS/JS References
 - [HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)
 - [Mozilla: Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [CSS Cheat Sheet](https://www.toptal.com/css/css-cheat-sheet)
 - [w3schools: CSS](https://www.w3schools.com/html/html_css.asp)
 
 ### Online Courses
