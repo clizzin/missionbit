@@ -51,3 +51,21 @@ Another common mistake: if The User says `mv log.txt small_fireplace`, but The S
 
 In Round 2, you are also responsible for running the `create_log.sh` shell script. If The Shell is in the Applications directory and The User gives the `bash create_log.sh` command, then you must create a new log: write down `log.txt` on a Sticky-Note, place it in front of the Applications directory, and draw a line connecting the two. __NOTE:__ Two files cannot have the same name in the same directory. So, if The User runs `create_log.sh` multiple times (and they should), create `log1.txt`, `log2.txt`, and so on.
 
+These are the commands The User might use:
+
+#### ls
+`ls` stands for `list`. The Shell will tell you what files and folders are in the directory where it is currently standing.
+#### cd `<name-of-directory>`
+`cd` stands for `change directory`. The Shell will move to the directory you tell it to, but only if it exists.
+#### cd ..
+`..` is a special keyword that means `the parent of the current directory`. The Shell will move backwards one directory when you give it this command.
+#### mkdir `<name-of-directory>`
+`mkdir` stands for `make directory`. The Shell will create a new directory with the specified name inside of the directory where it is currently standing.
+#### rm -r `<name-of-directory>`
+`rm -r` stands for `remove recursive`. The Shell will delete the directory that you specify. Use this if you accidentally told The Shell to create a directory in the wrong place.
+#### bash `<name-of-shell-script>`
+`bash` is the name of the computer language you are using to give commands to The Shell. Once you find the `create_log.sh` script, use this command to run it.
+#### mv `<name-of-file-to-move>` `<name-of-folder-where-you-want-to-move-the-file>`
+`mv` stands for `move`. The Shell will move the specified file to the specified destination directory. __NOTE: `..` is a perfectly acceptable destination.__
+
+__NOTE:__ There is no "undo" command. If you say a command that works, you have to live with the consequences.
