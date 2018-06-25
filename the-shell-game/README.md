@@ -1,4 +1,5 @@
 ## The Shell Game
+In this game, one person is The User, one person is The Shell, and one person is The Referee (see [roles](roles.md)). You are working as a team to complete specific [goals](goals.md). The User gives commands to The Shell. The Shell acts out the commands. The Referee helps their team make sure they are playing by the rules and using valid commands. Everyone in the group will take a turn in each role.
 
 ### Goals
 - Practice thinking like a computer
