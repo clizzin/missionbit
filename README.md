@@ -21,3 +21,6 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 
 ### Other Resources
 - [Scratch](https://scratch.mit.edu/) - This is a block-based programming language. It is not HTML/CSS/JS, but it introduces a lot of coding concepts with blocks, so that you don't have to worry as much about typing every letter and symbol right. Instead of typing commands, you drag blocks together.
+
+### Shell/Terminal Games
+- [Terminus](http://www.mprat.org/Terminus/) - I thought this was pretty fun. It's like a text adventure game where you have to use bash commands to move around and solve puzzles.
