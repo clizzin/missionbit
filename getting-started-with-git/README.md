@@ -1,13 +1,22 @@
 ### Setting Up Git
 NOTE: You are not expected to remember all of these commands. We will be using a lot of commands today to get set up, but after this, using git will get easier.
 
+ANOTHER NOTE: Lines that start with __$__ you are supposed to run in the terminal (but do not type the __$__ sign). Lines that do not start with __$__ are example output. For example:
+```
+$ echo 'good morning!'
+good morning!
+```
+
 ### Steps
-1) Move Shelly the shell to your `adventure-game` directory.
+
+1) Move Shelly the shell to your `adventure-game` directory. (You know how to do this :) Think back to The Shell Game we played yesterday. If you get stuck, ask for help.)
+
 2) Make sure you are actually where you think you are. Run the `pwd` command, which stands for `print working directory`:
 ```
 $ pwd
 /Users/missionbit/Desktop/adventure-game
 ```
+
 2.5) Configure git with your username and e-mail:
 ```
 $ git config --global user.name "Your Name"
@@ -20,23 +29,29 @@ $ git config --global user.name
 $ git config --global user.email
 "email@example.com"
 ```
+
 3) Turn the directory into a git code repository:
 ```
 $ git init
 Initialized empty Git repository in /Users/missionbit/Desktop/adventure-game/.git/
 ```
-4) Check out the new "hidden" directory that git created. The `.git` directory is where your project history is stored.
+4) Check out the new "hidden" directory that git created. The `.git` directory is where your project history is stored. Notice that it doesn't show up if you use `ls` without the `-a` option.
 ```
 $ ls -a
 . .. .git
 ```
+
 5) __ONLY ONE TEAM MEMBER DO THIS:__ create a repository on github called `adventure-game`
+
 5.5) In the repo settings page, add your teammates as collaborators. You will need to know their github usernames.
+
 6) Copy the repository URL. __Make sure to click the `Use HTTPS` button.__ Share the URL with teammates on slack.
+
 7) Configure your local repo so it can push/pull to the github repo. This is called "adding a remote repo":
 ```
 $ git remote add origin <repository-URL-goes-here>
 ```
+
 8) add the README.md file to the repo, and commit it (commit means save)
 ```
 $ git add README.md
@@ -48,6 +63,7 @@ $ git add blah blah blah more files
 $ git commit --message 'write some kind of message here that describes your second save'
 ```
 Every time you want to save changes, you need to `git add` to say what files you want to save, and `git commit` to actually do the save.
+
 9) __ONLY ONE TEAM MEMBER DO THIS (others watch & learn):__ Push your local repo to the remote github repo. You will need your github username and password in order for the push to work.
 ```
 $ git push --set-upstream origin master
@@ -60,7 +76,8 @@ To https://github.com/bennlich/bennlich.github.io.git
    a638a08..5dcfd00  master -> master
 Branch master set up to track remote branch master from origin.
 ```
-9) __ONE OTHER TEAM MEMBER DO THIS (first team member watch & learn):__ pull your teammate's changes (you will need your github username and password)
+
+10) __ONE OTHER TEAM MEMBER DO THIS (first team member watch & learn):__ pull your teammate's changes (you will need your github username and password)
 ```
 $ git pull --rebase
 warning: no common commits
@@ -89,17 +106,19 @@ If you prefer to skip this patch, run "git rebase --skip" instead.
 To check out the original branch and stop rebasing, run "git rebase --abort".
 
 ```
-10) Time to resolve conflicts! git noticed that you have a different version of the index.html and README.md files saved in your local repo. That's okay! This is what git is all about. To fix this:
+
+11) Time to resolve conflicts! git noticed that you have a different version of the index.html and README.md files saved in your local repo. That's okay! This is what git is all about. To fix this:
   a) Open up the files that have conflicts. Inside each file, you will see two versions of the code: one that looks like yours, and the other looks like your teammates. git put these two versions here for you so you can decide what to keep and what to get rid of.
   b) Decide with your teammate what lines to keep and what lines to delete. Save the file when you're done editing. Don't forget to delete the lines that have a bunch of these `>>>>>>>>>>` `<<<<<<<<<<`.
   c) Repeat for all the files with conflicts. If you forget which ones have conflicts, run `git status`.
 
-11) Once you've decided how to resolve all the conflicts, it's time to finish the pull. First add all the files that you fixed:
+12) Once you've decided how to resolve all the conflicts, it's time to finish the pull. First add all the files that you fixed:
 ```
 $ git add index.html
 $ git add README.md
 ```
-12) Make sure that you didn't miss anything. When you run `git status`, the output should look more or less like this:
+
+13) Make sure that you didn't miss anything. When you run `git status`, the output should look more or less like this:
 ```
 rebase in progress; onto a638a08
 You are currently rebasing branch 'master' on 'a638a08'.
@@ -126,9 +145,11 @@ Then you need to do:
 ```
 $ git rebase --skip
 ```
-13) Finally, push the result of your merge to github:
+
+14) Finally, push the result of your merge to github:
 ```
 $ git push --set-upstream origin master
 ```
-14) Wow. That was intense. This was complicated because it was the first time getting set up. In the future, pushing and pulling will be simpler. Give yourself a pat on the back.
+
+15) Wow. That was intense. This was complicated because it was the first time getting set up. In the future, pushing and pulling will be simpler. Give yourself a pat on the back.
 
