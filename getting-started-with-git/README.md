@@ -1,7 +1,7 @@
 ### Setting Up Git
 NOTE: You are not expected to remember all of these commands. We will be using a lot of commands today to get set up, but after this, using git will get easier.
 
-ANOTHER NOTE: Lines that start with __$__ you are supposed to run in the terminal (but do not type the __$__ sign). Lines that do not start with __$__ are example output. For example:
+ANOTHER NOTE: Lines that start with __$__ you are supposed to run in the terminal (but do not type the __$__ sign). Lines that do not start with __$__ are example output. For example, try this:
 ```
 $ echo 'good morning!'
 good morning!
