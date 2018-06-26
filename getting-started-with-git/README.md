@@ -64,6 +64,12 @@ $ git commit --message 'write some kind of message here that describes your seco
 ```
 __NOTE:__ Every time you want to save changes, you need to `git add` to say what files you want to save, and `git commit` to actually do the save.
 
+8.5) Take a breather! Stuff is about to get krayzee. Give yourself a chin scratch with cool gloves.
+
+![resting cat](https://media.giphy.com/media/oPC2PCPuOudeU/giphy.gif)
+
+8.95) Back already? Good. Get your github username and password ready.
+
 9) __ONLY ONE TEAM MEMBER DO THIS (others watch & learn):__ Push your local repo to the remote github repo. You will need your github username and password in order for the push to work.
 ```
 $ git push --set-upstream origin master
