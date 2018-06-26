@@ -109,11 +109,11 @@ To check out the original branch and stop rebasing, run "git rebase --abort".
 
 11) Time to resolve conflicts! git noticed that you have a different version of the index.html and README.md files saved in your local repo. That's okay! This is what git is all about. To fix this:
     
-    a) In Brackets, open up the files that have conflicts. Inside each file, you will see two versions of the code: one that looks like yours, and the other looks like your teammates. git put these two versions here for you so you can decide what to keep and what to get rid of.
+  a) In Brackets, open up the files that have conflicts. Inside each file, you will see two versions of the code: one that looks like yours, and the other looks like your teammates. git put these two versions here for you so you can decide what to keep and what to get rid of.
     
-    b) Decide with your teammate what lines to keep and what lines to delete. Save the file when you're done editing. Don't forget to delete the lines that have a bunch of these `>>>>>>>>>>` `<<<<<<<<<<`.
+  b) Decide with your teammate what lines to keep and what lines to delete. Save the file when you're done editing. Don't forget to delete the lines that have a bunch of these `>>>>>>>>>>` `<<<<<<<<<<`.
     
-    c) Repeat for all the files with conflicts. If you forget which ones have conflicts, run `git status`.
+  c) Repeat for all the files with conflicts. If you forget which ones have conflicts, run `git status`.
 
 12) Once you've decided how to resolve all the conflicts, it's time to finish the pull. First add all the files that you fixed:
 ```
