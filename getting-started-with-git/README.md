@@ -62,7 +62,7 @@ Now add the rest of the files in the directory. It doesn't matter whether they a
 $ git add blah blah blah more files
 $ git commit --message 'write some kind of message here that describes your second save'
 ```
-Every time you want to save changes, you need to `git add` to say what files you want to save, and `git commit` to actually do the save.
+__NOTE:__ Every time you want to save changes, you need to `git add` to say what files you want to save, and `git commit` to actually do the save.
 
 9) __ONLY ONE TEAM MEMBER DO THIS (others watch & learn):__ Push your local repo to the remote github repo. You will need your github username and password in order for the push to work.
 ```
@@ -109,7 +109,7 @@ To check out the original branch and stop rebasing, run "git rebase --abort".
 
 11) Time to resolve conflicts! git noticed that you have a different version of the index.html and README.md files saved in your local repo. That's okay! This is what git is all about. To fix this:
     
-    a) Open up the files that have conflicts. Inside each file, you will see two versions of the code: one that looks like yours, and the other looks like your teammates. git put these two versions here for you so you can decide what to keep and what to get rid of.
+    a) In Brackets, open up the files that have conflicts. Inside each file, you will see two versions of the code: one that looks like yours, and the other looks like your teammates. git put these two versions here for you so you can decide what to keep and what to get rid of.
     
     b) Decide with your teammate what lines to keep and what lines to delete. Save the file when you're done editing. Don't forget to delete the lines that have a bunch of these `>>>>>>>>>>` `<<<<<<<<<<`.
     
@@ -154,5 +154,5 @@ $ git rebase --skip
 $ git push --set-upstream origin master
 ```
 
-15) Wow. That was intense. This was complicated because it was the first time getting set up. In the future, pushing and pulling will be simpler. Give yourself a pat on the back.
+15) Wow. That was intense! This was complicated because it was the first time getting set up. In the future, pushing and pulling will be simpler. Give yourself a pat on the back and a hug. You're awesome.
 
