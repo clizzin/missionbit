@@ -44,4 +44,4 @@ Here we go.
 
 8) Repeat this process one computer at a time on your teammates' laptops.
 
-
+![here we go again!](https://media.giphy.com/media/Q4cwQSVXiYtTq/giphy.gif)
