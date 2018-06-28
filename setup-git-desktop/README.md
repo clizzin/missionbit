@@ -6,7 +6,7 @@ __EXTREMELY IMPORTANT:__ do the steps on one computer at a time.
 
 Here we go.
 
-[woo!](https://media.giphy.com/media/l3V0I3MfkEOOey5Zm/giphy.gif)
+![woo!](https://media.giphy.com/media/l3V0I3MfkEOOey5Zm/giphy.gif)
 
 ### Steps
 
