@@ -20,7 +20,6 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 - Intro: [https://youtu.be/Uw8SIaAK-vw](https://youtu.be/Uw8SIaAK-vw)
 - Playlist tutorial - very detailed: [https://www.youtube.com/playlist?list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId](https://www.youtube.com/playlist?list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId)
 - Documentation: [https://git-scm.com/book/es/v1/Empezando](https://git-scm.com/book/es/v1/Empezando)
-- Tutorial: [http://blog.santiagobasulto.com.ar/programacion/2011/11/27/tutorial-de-git-en-espanol.html](http://blog.santiagobasulto.com.ar/programacion/2011/11/27/tutorial-de-git-en-espanol.html)
 - e-mail juliana (@ missionbit.com)
 
 ### Other Resources
