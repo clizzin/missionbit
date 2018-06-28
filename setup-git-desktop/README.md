@@ -1,6 +1,12 @@
 ### Setting Up Github Desktop
 
-Gather your adventure game project group together, and follow the steps __on one computer at a time__.
+Get together with your adventure game group, and follow the steps together.
+
+__EXTREMELY IMPORTANT:__ do the steps on one computer at a time.
+
+Here we go.
+
+[woo!](https://media.giphy.com/media/l3V0I3MfkEOOey5Zm/giphy.gif)
 
 ### Steps
 
