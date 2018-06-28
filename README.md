@@ -26,3 +26,7 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 - [Terminus](http://www.mprat.org/Terminus/) - I thought this was really cool. It's like a text adventure game where you have to use bash commands to move around and solve puzzles.
 - [clmystery](https://github.com/veltman/clmystery) - Command-line murder mystery.
 - [Bandit](http://overthewire.org/wargames/bandit/) - Must be connected to the internet to play, because this game involves actually logging in to other computers. Very realistic, because you are actually using a real shell to play.
+
+### Class Activities/Tutorials
+- [The Shell Game](the-shell-game)
+- [Setup Github Desktop](setup-git-desktop)
