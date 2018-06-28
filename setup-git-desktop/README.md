@@ -10,7 +10,7 @@ Here we go.
 
 ### Steps
 
-0) Open the Github Desktop app.
+0) Open the Github Desktop app. (It's in your dock, or you can press command + space and type 'github desktop'.)
 
 1) Log in with your username and password
 
