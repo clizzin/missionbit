@@ -1,4 +1,4 @@
-### Setting Up Github Desktop
+### Sharing Your Adventure Game Code with GitHub Desktop
 
 Get together with your adventure game group, and follow the steps together.
 
