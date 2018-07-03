@@ -115,6 +115,7 @@ drawing
   .ellipse(100, 300)
   .stroke('green')
   .center(200, 200)
+  .rotate(45)
 ```
 
 ```js
@@ -124,3 +125,7 @@ drawing
 ```
 
 6) For help with the coordinates, include [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) in another script tag on your page.
+
+7) Check out these svg.js references: http://svgjs.com/manipulating/#syntactic-sugar and http://svgjs.com/elements/
+
+#### 
