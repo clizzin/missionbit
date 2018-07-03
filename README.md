@@ -5,6 +5,7 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 ### Class Activities/Tutorials
 - [The Shell Game](the-shell-game)
 - [Setup Github Desktop](setup-git-desktop)
+- [Intro to JavaScript](intro-to-js)
 
 ### HTML/CSS/JS References
 - [HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)
