@@ -132,7 +132,7 @@ drawing
 
 #### 9 Flower Challenge
 
-Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid, each one with different colors.
+Now it is time for the challenge! Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid, each one with different colors.
 
 This is similar to the 9 Box Challenge, but instead of boxes, it's flowers, and instead of using HTML, you're using JavaScript.
 
