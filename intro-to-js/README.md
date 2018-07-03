@@ -123,4 +123,4 @@ drawing
   .stroke('yellow')
 ```
 
-6) For help with the coordinates, include [coordinate-helper.js](coordinate-helper.js) in another script tag on your page.
+6) For help with the coordinates, include [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) in another script tag on your page.
