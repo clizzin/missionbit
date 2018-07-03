@@ -107,3 +107,20 @@ drawing
   .fill('purple')
   .center(300, 300)
 ```
+
+5) Try some other shapes:
+
+```js
+drawing
+  .ellipse(100, 300)
+  .stroke('green')
+  .center(200, 200)
+```
+
+```js
+drawing
+  .line(0, 0, 100, 200)
+  .stroke('yellow')
+```
+
+6) For help with the coordinates, include [coordinate-helper.js](coordinate-helper.js) in another script tag on your page.
