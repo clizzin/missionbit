@@ -156,7 +156,7 @@ In this case, __start by drawing just one flower__. When you have finished one f
 
 __When you have finished drawing the second flower, ask Benny to show you a shortcut using variables and functions.__
 
-If you need more shapes, check out these references:
+If you want more shapes, check out these references:
 - [http://svgjs.com/manipulating/#syntactic-sugar](http://svgjs.com/manipulating/#syntactic-sugar)
 - [http://svgjs.com/elements/](http://svgjs.com/elements/)
 
