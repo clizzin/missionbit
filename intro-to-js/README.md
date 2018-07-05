@@ -31,6 +31,8 @@ document.write('Hello world!')
 
 #### Adding a library
 
+![library gif](https://media.giphy.com/media/CBgB72eTZngJy/giphy.gif)
+
 A `library` is simply a bunch of javascript code that someone else wrote. We're going to use the `svg.js` library because it is a nice way to draw shapes and get introduced to the javascript programming language.
 
 0) Download the `svg.js` library from [here](https://raw.githubusercontent.com/svgdotjs/svg.js/master/dist/svg.js) (right-click -> save link as). Save it to your `9-flowers-challenge` directory.
@@ -67,7 +69,11 @@ __NOTE:__The main.js `<script>` tag __must come after__ the svg.js `<script>` ta
 
 The 0px margin makes the body reach the edges of the screen. The width and height make the `<div>` cover the entire screen as well.
 
-3) Time to draw a shape. Delete everything in your `main.js` file, and write the following:
+#### Drawing Shapes
+
+![shape face](https://media.giphy.com/media/3o7TKt2nShRwLMFiP6/giphy.gif)
+
+0) Time to draw a shape. Delete everything in your `main.js` file, and write the following:
 
 ```js
 // Don't worry about this line too much right now. It
@@ -87,7 +93,7 @@ drawing.rect(100, 200)
 
 Reload the page and you should see a black rectangle.
 
-4) Try giving it color:
+1) Try giving it color:
 
 ```js
 drawing.rect(100, 200).fill('purple')
@@ -114,7 +120,7 @@ Try changing the numbers inside the `center()` function and see how they move th
 
 The numbers that go in the `center()` function are called `coordinates`. You might have seen this word before in a math class at school. It's simply a way of pointing to specific parts of the screen. `0,0` is in the upper left corner.
 
-5) Try some other shapes:
+2) Try some other shapes:
 
 ```js
 drawing
@@ -130,7 +136,7 @@ drawing
   .stroke('yellow')
 ```
 
-6) Download [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) and save it to your 9-flowers-challenge folder. Connect it to your page with another `<script>` tag, just like you did in step 1.
+3) Download [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) and save it to your 9-flowers-challenge folder. Connect it to your page with another `<script>` tag, just like you did in step 1.
 
 Refresh your page. If it worked, you should see numbers in the upper-right corner of the screen that tell you what coordinates your mouse is at. You can use this as a guide to help you position your shapes.
 
