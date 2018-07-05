@@ -1,10 +1,12 @@
 ### Digital Poetry Project
 
-Inspiration by Young Hae Chang Heavy Industries: [ASÍ QUE LO LOGRASTE QUIÉN IBA A DECIRLO. FELICIDADES Y ¡BIENVENIDOS!](http://yhchang.com/AS%C3%8D_QUE_LO_LOGRASTE_QUI%C3%89N_IBA_A_DECIRLO._FELICIDADES_Y_%C2%A1BIENVENIDO!_S_V.html) and [AH](http://yhchang.com/AH_V.html)
+Inspiration by Young Hae Chang Heavy Industries:
+- [ASÍ QUE LO LOGRASTE QUIÉN IBA A DECIRLO. FELICIDADES Y ¡BIENVENIDOS!](http://yhchang.com/AS%C3%8D_QUE_LO_LOGRASTE_QUI%C3%89N_IBA_A_DECIRLO._FELICIDADES_Y_%C2%A1BIENVENIDO!_S_V.html)
+- [AH](http://yhchang.com/AH_V.html)
 
 Young Hae Chang Heavy Industries are two artists based in Seoul, Korea. A lot of their work is about immigration, power, and other social justice issues.
 
-Your project can be written in any language and be about anything you want at all. (It does not need to be about a social issue--I am just using their work as an example because I think it shows how you can combine words and music and video in a simple way for a powerful effect.)
+Your project can be written in any language and be about anything you want at all. It does not need to be about a social issue. I am just using their work as an example because I think it shows how you can combine words and music and video in a simple way for a powerful effect.
 
 ### Steps
 

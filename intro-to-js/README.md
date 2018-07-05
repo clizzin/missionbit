@@ -110,6 +110,8 @@ drawing
   .center(300, 300)
 ```
 
+Try changing the numbers inside the `center()` function and see how they move the rectangle around.
+
 5) Try some other shapes:
 
 ```js
@@ -126,11 +128,15 @@ drawing
   .stroke('yellow')
 ```
 
-6) For help with the coordinates, include [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) in another script tag on your page.
+6) The numbers that go in the `center()` function are called `coordinates`. You might have seen this word before in a math class at school. It's simply a way of pointing to specific parts of the screen. `0,0` is in the upper left corner.
 
-7) Check out these svg.js references: [http://svgjs.com/manipulating/#syntactic-sugar](http://svgjs.com/manipulating/#syntactic-sugar) and [http://svgjs.com/elements/](http://svgjs.com/elements/)
+Try changing the numbers in the `center()` function and see where your shapes move to.
 
-#### 9 Flower Challenge
+7) Download [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) and save it to your 9-flowers-challenge folder. Connect it to your page with another `<script>` tag, just like you did in step 1.
+
+Refresh your page. If it worked, you should see numbers in the upper-right corner of the screen that tell you what coordinates your mouse is at. You can use this as a guide to help you position your shapes.
+
+#### 9 Flowers Challenge
 
 Now it is time for the challenge! Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid, each one with different colors.
 
@@ -140,6 +146,8 @@ __IMPORTANT:__ Always break down a challenge into simpler pieces.
 
 In this case, __start by drawing just one flower__. When you have finished one flower, how will you draw a second flower that looks just like the first one?
 
-__HINT:__ This is where `variables` and `functions` come in handy. They save a lot of typing. Ask Benny to show you how to use these when you are ready to draw multiple flowers.
+__When you have finished drawing the second flower, ask Benny to show you a shortcut using variables and functions.__
 
-
+If you need more shapes, check out these references:
+- [http://svgjs.com/manipulating/#syntactic-sugar](http://svgjs.com/manipulating/#syntactic-sugar)
+- [http://svgjs.com/elements/](http://svgjs.com/elements/)
