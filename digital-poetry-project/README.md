@@ -18,9 +18,9 @@ Your project can be written in any language and be about anything you want at al
 
 2) Save a new `index.html` file into this folder. Make sure it has a `<body></body>` tag.
 
-3) Save a new `index.js` file. Use a `<script>` tag to connect your script file (`index.js`) to your html page (`index.html`) like in the 9 flowers project. If you forget how, look at the `index.html` for your 9 flowers project.
+3) Save a new `main.js` file. Use a `<script>` tag to connect your script file (`main.js`) to your html page (`index.html`) like in the 9 flowers project. If you forget how, look at the `index.html` for your 9 flowers project.
 
-4) Test to see if your script tag works by adding this to your `index.js` and loading the page:
+4) Test to see if your script tag works by adding this to your `main.js` and loading the page:
 
 ```
 document.write('Hello world again!')

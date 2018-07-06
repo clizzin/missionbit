@@ -31,6 +31,8 @@ document.write('Hello world!')
 
 #### Adding a library
 
+![library gif](https://media.giphy.com/media/CBgB72eTZngJy/giphy.gif)
+
 A `library` is simply a bunch of javascript code that someone else wrote. We're going to use the `svg.js` library because it is a nice way to draw shapes and get introduced to the javascript programming language.
 
 0) Download the `svg.js` library from [here](https://raw.githubusercontent.com/svgdotjs/svg.js/master/dist/svg.js) (right-click -> save link as). Save it to your `9-flowers-challenge` directory.
@@ -67,7 +69,11 @@ __NOTE:__The main.js `<script>` tag __must come after__ the svg.js `<script>` ta
 
 The 0px margin makes the body reach the edges of the screen. The width and height make the `<div>` cover the entire screen as well.
 
-3) Time to draw a shape. Delete everything in your `main.js` file, and write the following:
+#### Drawing Shapes
+
+![shape face](https://media.giphy.com/media/3o7TKt2nShRwLMFiP6/giphy.gif)
+
+0) Time to draw a shape. Delete everything in your `main.js` file, and write the following:
 
 ```js
 // Don't worry about this line too much right now. It
@@ -87,7 +93,7 @@ drawing.rect(100, 200)
 
 Reload the page and you should see a black rectangle.
 
-4) Try giving it color:
+1) Try giving it color:
 
 ```js
 drawing.rect(100, 200).fill('purple')
@@ -112,7 +118,9 @@ drawing
 
 Try changing the numbers inside the `center()` function and see how they move the rectangle around.
 
-5) Try some other shapes:
+The numbers that go in the `center()` function are called `coordinates`. You might have seen this word before in a math class at school. It's simply a way of pointing to specific parts of the screen. `0,0` is in the upper left corner.
+
+2) Try some other shapes:
 
 ```js
 drawing
@@ -128,17 +136,17 @@ drawing
   .stroke('yellow')
 ```
 
-6) The numbers that go in the `center()` function are called `coordinates`. You might have seen this word before in a math class at school. It's simply a way of pointing to specific parts of the screen. `0,0` is in the upper left corner.
-
-Try changing the numbers in the `center()` function and see where your shapes move to.
-
-7) Download [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) and save it to your 9-flowers-challenge folder. Connect it to your page with another `<script>` tag, just like you did in step 1.
+3) Download [coordinate-helper.js](https://raw.githubusercontent.com/bennlich/missionbit/master/intro-to-js/coordinate-helper.js) and save it to your 9-flowers-challenge folder. Connect it to your page with another `<script>` tag, just like you did in step 1.
 
 Refresh your page. If it worked, you should see numbers in the upper-right corner of the screen that tell you what coordinates your mouse is at. You can use this as a guide to help you position your shapes.
 
 #### 9 Flowers Challenge
 
-Now it is time for the challenge! Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid, each one with different colors.
+Now it is time for the challenge!
+
+### Part 1
+
+__Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid. Each flower must have at least one different color.__
 
 This is similar to the 9 Box Challenge, but instead of boxes, it's flowers, and instead of using HTML, you're using JavaScript.
 
@@ -148,6 +156,42 @@ In this case, __start by drawing just one flower__. When you have finished one f
 
 __When you have finished drawing the second flower, ask Benny to show you a shortcut using variables and functions.__
 
-If you need more shapes, check out these references:
+If you want more shapes, check out these references:
 - [http://svgjs.com/manipulating/#syntactic-sugar](http://svgjs.com/manipulating/#syntactic-sugar)
 - [http://svgjs.com/elements/](http://svgjs.com/elements/)
+
+### Part 2
+
+__In part 2, your challenge is to draw a bee that moves whenever you click on a flower.__
+
+1) The first step is to draw a bee.
+
+2) The second step is to add all the parts of the bee to one bee group, for example:
+
+```js
+var beeGroup = drawing.group();
+
+// the bee's body
+drawing
+  .ellipse(200, 30)
+  .fill('yellow')
+  .addTo(beeGroup);
+```
+
+3) To make something happen when you click a flower, you have to add a "click event listener". For example, to add a "click event listener" to a rectangle:
+
+```js
+var moveBee = function(mouseEvent) {
+  // this will print the coordinates of the mouse
+  // to the console
+  console.log(mouseEvent.x, mouseEvent.y);
+}
+
+rect(100, 200)
+  .on('click', moveBee);
+```
+
+Now open up the inspector to the console and try clicking on the rectangle. You should see two numbers print out.
+
+4) You have to figure out how to make the `moveBee` function actually move your bee to the right place.
+
