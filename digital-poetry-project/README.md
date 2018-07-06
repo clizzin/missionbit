@@ -10,6 +10,8 @@ Your project can be written in any language and be about anything you want at al
 
 ### Steps
 
+![pug stairs](https://media.giphy.com/media/fbPRYlLtlg8Le/giphy.gif)
+
 #### Setup
 
 0) Create a new `digital-poetry-project` folder on your Desktop
@@ -67,6 +69,8 @@ wordContainer.css('padding', '20px');
 
 #### Part 2: Listening for keypresses on the keyboard
 
+![cat keyboard](https://media.giphy.com/media/j1ZZQpQ6SGDiU/giphy.gif)
+
 What if we want the text to change whenever a key is pressed?
 
 We need to use an __event listener__ and a __function__:
@@ -113,7 +117,11 @@ And so on.
 
 You will need to use a new variable that keeps track of how many times you have pressed a key.
 
-Here are some helpful resources:
+You will probably need some help from these resources too:
 - [Variables](https://www.w3schools.com/js/js_variables.asp)
 - [If/Else Statements](https://www.w3schools.com/js/js_if_else.asp)
 - [String Concatenation](http://2ality.com/2011/10/string-concatenation.html)
+
+Remember, it's okay to be confused! __You are wise.__ Make a solid plan, see how far you can get, and ask questions if you get stuck.
+
+![](https://media.giphy.com/media/zkSFsZpQMZuG4/giphy.gif)
