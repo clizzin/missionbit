@@ -188,7 +188,7 @@ var moveBee = function(mouseEvent) {
 }
 
 rect(100, 200)
-  .click(moveBee);
+  .on('click', moveBee);
 ```
 
 Now open up the inspector to the console and try clicking on the rectangle. You should see two numbers print out.
