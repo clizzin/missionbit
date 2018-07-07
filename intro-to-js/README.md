@@ -146,6 +146,8 @@ Now it is time for the challenge!
 
 ### Part 1
 
+![flowers](https://media.giphy.com/media/rbEQ5LkMhxUvm/giphy.gif)
+
 __Your challenge is to use the shape tools you just learned about to draw 9 flowers in a grid. Each flower must have at least one different color.__
 
 This is similar to the 9 Box Challenge, but instead of boxes, it's flowers, and instead of using HTML, you're using JavaScript.
@@ -161,6 +163,8 @@ If you want more shapes, check out these references:
 - [http://svgjs.com/elements/](http://svgjs.com/elements/)
 
 ### Part 2
+
+![bee](https://media.giphy.com/media/H80pstVGYkK6Q/giphy.gif)
 
 __In part 2, your challenge is to draw a bee that moves whenever you click on a flower.__
 
@@ -187,7 +191,8 @@ var moveBee = function(mouseEvent) {
   console.log(mouseEvent.x, mouseEvent.y);
 }
 
-rect(100, 200)
+drawing
+  .rect(100, 200)
   .on('click', moveBee);
 ```
 
