@@ -8,11 +8,9 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 - [Intro to JavaScript](intro-to-js)
 
 ### Art + Sound
+- [http://www.piskelapp.com/](http://www.piskelapp.com/)
 - [https://opengameart.org/](https://opengameart.org/) 
 - [http://www.freesound.org/](http://www.freesound.org/) 
-- [https://pixlr.com/](https://pixlr.com/) 
-- [https://www.pixilart.com/draw](https://www.pixilart.com/draw) 
-- [http://www.piskelapp.com/](http://www.piskelapp.com/)
 
 ### HTML/CSS/JS References
 - [HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)
