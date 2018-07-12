@@ -21,6 +21,8 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 ### Online Courses
 - [codecademy: Make a Website](https://www.codecademy.com/learn/make-a-website)
 - [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) - Video-based course. You can do it from your phone by installing the Udacity app.
+- [codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) (videos have a spanish option)
 
 ### Spanish-language resources for git
 - Intro: [https://youtu.be/Uw8SIaAK-vw](https://youtu.be/Uw8SIaAK-vw)
