@@ -1,33 +1,6 @@
-var game = new Phaser.Game(800, 800, Phaser.AUTO, 'game-div');
-
 var level1State = { preload: preload, create: create, update: update };
-var gameoverState = {
-  create: function() {
-    var style = {
-      font: "bold 32px Arial",
-      fill: "#fff",
-      boundsAlignH: "center",
-      boundsAlignV: "middle"
-    };
-
-    //  The Text is positioned at 0, 100
-    text = this.game.add.text(0, 0, "<< GAME OVER >>", style);
-    
-    // x, y, width, height
-    text.setTextBounds(0, 100, 800, 100);
-    
-    // text click event
-    text.inputEnabled = true;
-    text.events.onInputDown.add(function() {
-      this.game.state.start('level1');
-    }, this)
-  }
-};
-
 
 game.state.add('level1', level1State);
-game.state.add('gameover', gameoverState);
-game.state.start('gameover');
 
 function preload() {
 
