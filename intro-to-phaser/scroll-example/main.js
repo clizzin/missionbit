@@ -57,6 +57,9 @@ function create() {
     // to follow the player
     game.world.setBounds(0, 0, 1920, 1920);
     game.camera.follow(player);
+
+    game.scale.pageAlignVertically = true;
+    game.scale.pageAlignHorizontally = true;
 }
 
 function update() {
