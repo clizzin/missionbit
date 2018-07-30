@@ -5,7 +5,8 @@ Hey! Syn and I will keep this page up-to-date with links to resources we mention
 ### Class Activities/Tutorials
 - [The Shell Game](the-shell-game)
 - [Setup Github Desktop](setup-git-desktop)
-- [Intro to JavaScript](intro-to-js)
+- [Intro to JavaScript / 9 Flowers Challenge](intro-to-js)
+- [Phaser Examples](intro-to-phaser)
 
 ### Art + Sound
 - [http://www.piskelapp.com/](http://www.piskelapp.com/)
