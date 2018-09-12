@@ -11,6 +11,8 @@ The whole point of this challenge is to practice __these 3 things__:
 
 ### Steps
 
+![dancing blocks](https://media.giphy.com/media/Qw3UKXehdETjq/giphy.gif)
+
 #### Getting Started
 
 0) Create a new directory on your desktop called `9-blocks-challenge`.
