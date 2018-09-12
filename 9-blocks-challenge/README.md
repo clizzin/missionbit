@@ -38,3 +38,12 @@ __Extremely helpful hint:__ Use a `<div></div>` tag to make your blocks. By itse
 
 __Don't forget about your friend the web inspector.__
 
+![block frustration](https://media.giphy.com/media/i9WdxTfoTB89G/giphy.gif)
+
+__Be patient with yourself__. This is not supposed to be easy.
+
+#### Part II
+
+0) Make one of the blocks out of text instead of color. It should still be square.
+
+1) Make one of the blocks an image instead of color. It should still be square.
