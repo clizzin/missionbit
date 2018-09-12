@@ -9,3 +9,8 @@ Here is a suggested breakdown:
 2) Once you have one square colored block working, then move on to making more blocks with different colors.
 
 3) Once you are able to make multiple blocks, then start to think about how to arrange them in a grid.
+
+The breakdown that you and your students come up with does not need to be exactly the same as this one.
+
+The important thing is to practice finding the simplest task you can do that will get you toward your final goal.
+
