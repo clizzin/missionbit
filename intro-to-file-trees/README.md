@@ -3,15 +3,15 @@
 The point of this challenge is to:
 1) Understand how files and folders are organized on your computer.
 2) Become __extremely__ comfortable moving files to specific folders in your file tree (i.e. be able to do it with your eyes closed).
-3) Practice figuring out if you did something correctly without asking your instructor.
+3) Practice figuring out if you did something right without asking your instructor.
 
 #### Vocab Tip
 
-Some people say __directory__ or __subdirectory__ instead of __folder__. All of these words mean the same thing. 
+Some people say __directory__ or __subdirectory__ instead of __folder__--all of these words mean the same thing!
 
 ### Getting Started
 
-0) Download [file-tree-challenge.zip](file-tree-challenge.zip) and save it on your desktop.
+0) Download [file-tree-challenge.zip](file-tree-challenge.zip) and save it to your desktop.
 
 1) Double-click `file-tree-challenge.zip` to __extract__ the contents. You should see a folder called `file-tree-challenge`. Delete the zip file once you've extracted it.
 
