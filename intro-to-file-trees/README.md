@@ -1,5 +1,7 @@
 ### The File Tree Challenge
 
+![tree](https://media.giphy.com/media/8ssA9C1BYg4cE/giphy.gif)
+
 The point of this challenge is to:
 1) Understand how files and folders are organized on your computer.
 2) Become __extremely__ comfortable moving files to specific folders in your file tree (i.e. be able to do it with your eyes closed).
@@ -37,6 +39,8 @@ But you can represent the tree however you want. For example, you could use an i
 __The only requirement__ is that __your diagram makes it clear which folders live inside of which other folders.__ In other words, the parent/child/sibling relationships must be clear.
 
 #### How do I know if I did it right?
+
+![teamwork](https://media.giphy.com/media/1MayKbFuSKE1O/giphy.gif)
 
 Good question. Once you think you did it right, show your drawing to whoever is sitting next to you. Did you draw the same tree?
 
