@@ -5,9 +5,7 @@
 - Describe what version control is
 - Create a GitHub account
 - Create a repo
-- Push the adventure game code to GitHub
-- Merge the adventure game code from different team members
-- Pull the adventure game code into local computers
+- Publish a webpage using GitHub Pages
 
 
 
