@@ -1,4 +1,4 @@
-### The 9 Blocks Challenge
+# The 9 Blocks Challenge
 
 Your goal is to use HTML and CSS to __make a web page with 9 colored square `<div>`s arranged in a 3 by 3 grid__.
 
