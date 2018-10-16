@@ -31,6 +31,7 @@ __Be patient with yourself.__ This is supposed to be a challenge.
 
 If you are feeling lost, review Module 3, part 3.
 
+__Hint:__
 1. Which way did you create your grid? If you used inline CSS, do you see anything that repeats over and over again? Repeated style might be an indication that you need to use a [class selector](https://www.w3schools.com/css/css_syntax.asp).
 
 
