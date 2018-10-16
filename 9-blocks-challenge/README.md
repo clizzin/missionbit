@@ -46,8 +46,4 @@ __Don't forget about your friend the web inspector.__
 
 __Be patient with yourself__. This is not supposed to be easy.
 
-#### Part II
 
-0) Make one of the blocks out of text instead of color. It should still be square.
-
-1) Make one of the blocks an image instead of color. It should still be square.
