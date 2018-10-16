@@ -8,7 +8,7 @@ The next step is to re-create this same grid using the 3 different ways to add C
 
 
 
-###What's the point?
+### What's the point?
 
 Now that you have successfully used CSS to create 9 beautifully colored squares organized into a grid, it's helpful to practice doing the same task in different ways.
 
