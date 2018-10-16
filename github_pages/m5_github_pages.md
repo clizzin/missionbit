@@ -1,6 +1,6 @@
 # M5: Git and GitHub
 
-###Learning Objectives
+### Learning Objectives
 
 - Describe what version control is
 - Create a GitHub account
@@ -9,7 +9,7 @@
 
 
 
-###Git and GitHub
+### Git and GitHub
 
 ![GitHub Education](octocat_teacher.png)
 
