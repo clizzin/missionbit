@@ -32,3 +32,7 @@ If you don't have a repo on GitHub, but you already have a project folder:
 2. Note that the link to your website is _your_user_name_.github.io/_your_repo_name_. This is not a coincidence. Once you've created that first GitHub Page, you can publish any of your other repos just by selecting a Source for GitHub Pages, and the URL will always follow this format.
 
 Pretty easy, huh?
+
+### Step 3: Add a link to your adventure game in your portfolio.
+_your_user_name_.github.io will be your landing page, i.e., the page where visitors "land" when they go to your website. In this case, this is your homepage, and it will serve as a portfolio that you can share with others to showcase your work. This means that, by the end of the semester, we want that page to look something like this: [http://mattfarley.ca/](http://mattfarley.ca/). There you will have, at a minimum, an about_me page and links to your adventure game and to your final project. When you start applying to colleges you should definitely include a link to your portfolio in your application!
+For now, __add a link to your index.html file (located in your _your_user_name_.github.io repo).__
