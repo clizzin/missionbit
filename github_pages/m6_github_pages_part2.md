@@ -10,7 +10,7 @@
 ### Publishing multiple websites
 Now that you've created and published your first website, you might be wondering if you can use GitHub Pages to publish other projects. After all you needed to create the repo with a very specific name for that to work, i.e., _our_user_name.github.io_.
 
-The answer is __yes__! ![Yes!](https://media.giphy.com/media/nFjDu1LjEADh6/giphy.gif)
+The answer is __yes__! ![Yes!](https://media.giphy.com/media/nFjDu1LjEADh6/giphy.gif =50%)
 
 Once you've created that first _your_user_name.github.io_ repo and published it with GitHub Pages, you can publish as many projects as you want! (within reasonable [limits](help.github.com/articles/what-is-github-pages/), of course)
 
