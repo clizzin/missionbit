@@ -17,22 +17,7 @@ The whole point of this challenge is to practice __these 3 things__:
 
 ![dancing blocks](https://media.giphy.com/media/Qw3UKXehdETjq/giphy.gif)
 
-#### Getting Started
-
-0) Create a new directory on your desktop called `9-blocks-challenge`.
-
-1) Create an `index.html` file in that directory that looks like this:
-
-```html
-<!doctype HTML>
-<html>
-    <body></body>
-</html>
-```
-
 #### 9 Blocks Challenge
-
-Now it is time for the challenge!
 
 0) First, spend 3-5 minutes to discuss as a class how to break this task down into smaller pieces. This is an extremely important skill that software engineers have to use every single day.
 
